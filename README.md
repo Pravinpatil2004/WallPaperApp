@@ -1,4 +1,4 @@
-<img src="ScreenShots\wallpaper1.jpg" width="250"/>
-<img src="ScreenShots/wallpaper2.jpg" width="250"/>
+## 📸 Screenshots
 
-
+<img src="screenshots/wallpaper1.jpg" width="250"/>
+<img src="screenshots/wallpaper2.jpg" width="250"/>
